@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj": {}
+    "C:\\Users\\nicolle.poncio\\source\\repos\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj": {}
   },
   "projects": {
-    "C:\\Source\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj": {
+    "C:\\Users\\nicolle.poncio\\source\\repos\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
+        "projectUniqueName": "C:\\Users\\nicolle.poncio\\source\\repos\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
         "projectName": "MeuSiteEmMVC",
-        "projectPath": "C:\\Source\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
-        "packagesPath": "C:\\Users\\gabriele.bublitz\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\obj\\",
+        "projectPath": "C:\\Users\\nicolle.poncio\\source\\repos\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
+        "packagesPath": "C:\\Users\\nicolle.poncio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicolle.poncio\\source\\repos\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "\\\\Server\\c#-vespertino\\gabriele.bublitz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "\\\\Server\\c#-vespertino\\nicolle.poncio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

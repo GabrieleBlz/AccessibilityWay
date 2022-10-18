@@ -1,0 +1,139 @@
+﻿@{
+    ViewData["Title"] = "Cadastro";
+}
+
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/Cadastro.css">
+
+    <title>Conheça nossa Equipe</title>
+</head>
+
+<body>
+    <style>
+        p {
+            font-family: Consolas;
+            color: black;
+        }
+    </style>
+
+    <label class="box">
+        <form cadastro="inputBox">
+            <fieldset>
+                <div class="text-center">
+                    <legend>Cadastro de Pedestres</legend>
+                </div>
+                <div class="inputBox">
+                    <label for="nome" data-error="wrong" data-success="right">Nome Completo:</label>
+                    <input id="nome" type="text" class="validate" required>
+                </div>
+
+                <div class="inputBox">
+                    <label for="tel" data-error="wrong" data-success="right">Telefone: </label>
+                    <input id="telefone" type="tel" class="validate" placeholder="(xx) xxxxx-xxxx">
+                </div>
+
+                <div class="inputBox">
+                    <label for="nasc" data-error="wrong" data-success="right"> Data de Nascimento: </label>
+                    <input id="dataNascimento" type="date" class="validate" required>
+                </div>
+
+                <div class="inputBox">
+                    <label for="cpf" data-error="wrong" data-success="right">CPF:</label>
+                    <input id="cpf" type="text" class="validate" required placeholder="xxx.xxx.xxx-xx" pattern="(\d{3}\.?\d{3}\.?\d{3}-?\d{2})">
+                </div>
+
+                <div class="inputBox">
+                    <label for="cep" data-error="wrong" data-success="right">CEP:</label>
+                    <input id="cpf" type="text" class="validate" />
+
+                    <label for="uf">Estado: </label>
+                    <select id="uf">
+                        <option value="AC">Acre</option>
+                        <option value="AL">Alagoas</option>
+                        <option value="AP">Amapá</option>
+                        <option value="AM">Amazonas</option>
+                        <option value="BA">Bahia</option>
+                        <option value="CE">Ceará</option>
+                        <option value="DF">Distrito Federal</option>
+                        <option value="ES">Espírito Santo</option>
+                        <option value="GO">Goiás</option>
+                        <option value="MA">Maranhão</option>
+                        <option value="MT">Mato Grosso</option>
+                        <option value="MS">Mato Grosso do Sul</option>
+                        <option value="MG">Minas Gerais</option>
+                        <option value="PA">Pará</option>
+                        <option value="PB">Paraíba</option>
+                        <option value="PR">Paraná</option>
+                        <option value="PE">Pernambuco</option>
+                        <option value="PI">Piauí</option>
+                        <option value="RJ">Rio de Janeiro</option>
+                        <option value="RN">Rio Grande do Norte</option>
+                        <option value="RS">Rio Grande do Sul</option>
+                        <option value="RO">Rondônia</option>
+                        <option value="RR">Roraima</option>
+                        <option value="SC">Santa Catarina</option>
+                        <option value="SP">São Paulo</option>
+                        <option value="SE">Sergipe</option>
+                        <option value="TO">Tocantins</option>
+                    </select>
+                </div>
+
+                <div class="inputBox">
+                    <label for="endereco" data-error="wrong" data-success="right">Endereço:</label>
+                    <input id="endereco" type="text" class="validate" />
+
+                    <label for="rua" data-error="wrong" data-success="right">N°:</label>
+                    <input id="rua" type="text" class="validate" />
+                </div>
+
+                <div class="inputBox">
+                    <label for="complemento" data-error="wrong" data-success="right">Complemento:</label>
+                    <input id="complemento" type="text" class="validate" />
+                </div>
+
+                <div class="inputBox">
+                    <label for="bairro" data-error="wrong" data-success="right">Bairro:</label>
+                    <input id="bairro" type="text" class="validate" />
+                </div>
+
+                <div class="inputBox">
+                    <label for="rua" data-error="wrong" data-success="right">Rua:</label>
+                    <input id="rua" type="text" class="validate" />
+                </div>
+
+                <div class="inputBox">
+                    <label for="condicao" data-error="wrong" data-success="right">Condição:</label>
+                    <input id="condicao" type="text" class="validate" />
+                </div>
+
+                <div class="inputBox">
+                <label for="tempo" data-error="wrong" data-success="right">Tempo da condição:</label>
+                <input id="tempo" type="checkbox" class="validate" />
+                <label for="tempo"> Temporario </label>
+
+                <input id="tempo" type="checkbox" class="validate" />
+                <label for="tempo"> Permanente </label>
+                </div>
+
+                <div class="inputBox">
+                    <label for="foto" data-error="wrong" data-success="right">Foto:</label>
+                    <input id="foto" type="file" class="validate" />
+                </div>
+
+                <div class="inputBox">
+                    <label for="doc" data-error="wrong" data-success="right">Documento Médico:</label>
+                    <input id="doc" type="file" class="validate" />
+                </div>
+
+                <input type="reset" name="b1" value="Limpar">
+                <input type="submit" name="b2" value="Enviar">
+
+            </fieldset>
+        </form>
+    </label>
+</body>
+</html>
