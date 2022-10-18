@@ -1,0 +1,88 @@
+﻿/*namespace MeuSiteEmMVC.wwwroot.css */
+html
+{
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html 
+    {
+        font-size: 16px;
+    }
+}
+
+html 
+{
+    position: relative;
+    min-height: 100%;
+}
+
+body 
+{
+    margin-bottom: 60px;
+}
+div.container-fluid
+{
+    background: white;
+}
+body.Principal
+{
+    background-image: url('../img/wallpaperflare.com_wallpaper.jpg');
+}
+div.text-center
+{
+    color: black;
+    font-weight: 700;
+    font-size: 18px;
+}
+h1.Problema
+{
+    text-align: left;
+    font-size: 38px;
+}
+h1.Ideia 
+{
+    text-align: center;
+    font-size: 38px;
+}
+div.homeArticle
+{
+    text-align: center;
+    width: 95%;
+    /*background-color: white;*/
+    margin: 5px 2%;
+    display: inline-block;
+    float: left;
+    border-radius: 15px;
+    /*box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.3);*/
+    padding: 15px;
+    min-height: 190px;
+    font-size: 20px;
+}
+div.homeArticle img
+{
+    float: left;
+    margin-right: 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+div.homeArticle2
+{
+    text-align: center;
+    width: 50%;
+    background-color: white;
+    margin: 5px 2%;
+    display: inline-block;
+    float: left;
+    border-radius: 15px;
+    box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.3);
+    padding: 15px;
+    min-height: 190px;
+    font-size: 20px;
+}
+footer
+{
+    background: white;
+}
+
+

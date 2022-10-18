@@ -1,0 +1,182 @@
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.staticwebassets.runtime.json
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.exe
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.deps.json
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.runtimeconfig.json
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.dll
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.pdb
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.csproj.AssemblyReference.cache
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.AssemblyInfoInputs.cache
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.AssemblyInfo.cs
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.csproj.CoreCompileInputs.cache
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.RazorAssemblyInfo.cache
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.RazorAssemblyInfo.cs
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\bundle\MeuSiteEmMVC.styles.css
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\projectbundle\MeuSiteEmMVC.bundle.scp.css
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.dll
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\refint\MeuSiteEmMVC.dll
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.pdb
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.genruntimeconfig.cache
+C:\Users\christian.santos\Forms\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\ref\MeuSiteEmMVC.dll
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\appsettings.Development.json
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\appsettings.json
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.staticwebassets.runtime.json
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.exe
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.deps.json
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.runtimeconfig.json
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.dll
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.pdb
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.csproj.AssemblyReference.cache
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.GeneratedMSBuildEditorConfig.editorconfig
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.AssemblyInfoInputs.cache
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.AssemblyInfo.cs
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.csproj.CoreCompileInputs.cache
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.MvcApplicationPartsAssemblyInfo.cache
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.RazorAssemblyInfo.cache
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.RazorAssemblyInfo.cs
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\staticwebassets.build.json
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\staticwebassets.development.json
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\bundle\MeuSiteEmMVC.styles.css
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\projectbundle\MeuSiteEmMVC.bundle.scp.css
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.dll
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\refint\MeuSiteEmMVC.dll
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.pdb
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.genruntimeconfig.cache
+\\Server\c#-vespertino\christian.santos\Desktop\AccessibilityWay\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\ref\MeuSiteEmMVC.dll
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.staticwebassets.runtime.json
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.exe
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.deps.json
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.runtimeconfig.json
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.dll
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.pdb
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.csproj.AssemblyReference.cache
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.AssemblyInfoInputs.cache
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.AssemblyInfo.cs
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.csproj.CoreCompileInputs.cache
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.RazorAssemblyInfo.cache
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.RazorAssemblyInfo.cs
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\bundle\MeuSiteEmMVC.styles.css
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\projectbundle\MeuSiteEmMVC.bundle.scp.css
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.dll
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\refint\MeuSiteEmMVC.dll
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.pdb
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.genruntimeconfig.cache
+C:\Users\christian.santos\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\ref\MeuSiteEmMVC.dll
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.staticwebassets.runtime.json
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.exe
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.deps.json
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.runtimeconfig.json
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.dll
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.pdb
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.csproj.AssemblyReference.cache
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.AssemblyInfoInputs.cache
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.AssemblyInfo.cs
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.csproj.CoreCompileInputs.cache
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.RazorAssemblyInfo.cache
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.RazorAssemblyInfo.cs
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\bundle\MeuSiteEmMVC.styles.css
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\projectbundle\MeuSiteEmMVC.bundle.scp.css
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.dll
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\refint\MeuSiteEmMVC.dll
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.pdb
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.genruntimeconfig.cache
+C:\Users\gabriele.bublitz\source\repos\AccessibilityWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\ref\MeuSiteEmMVC.dll
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.staticwebassets.runtime.json
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.exe
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.deps.json
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.runtimeconfig.json
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.dll
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.pdb
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.csproj.AssemblyReference.cache
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.AssemblyInfoInputs.cache
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.AssemblyInfo.cs
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.csproj.CoreCompileInputs.cache
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.RazorAssemblyInfo.cache
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.RazorAssemblyInfo.cs
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\bundle\MeuSiteEmMVC.styles.css
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\projectbundle\MeuSiteEmMVC.bundle.scp.css
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.dll
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\refint\MeuSiteEmMVC.dll
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.pdb
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.genruntimeconfig.cache
+C:\Users\rosan\OneDrive\Documentos\GitHub\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\ref\MeuSiteEmMVC.dll
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.staticwebassets.runtime.json
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.exe
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.deps.json
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.runtimeconfig.json
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.dll
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.pdb
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.csproj.AssemblyReference.cache
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.AssemblyInfoInputs.cache
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.AssemblyInfo.cs
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.csproj.CoreCompileInputs.cache
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.RazorAssemblyInfo.cache
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.RazorAssemblyInfo.cs
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\bundle\MeuSiteEmMVC.styles.css
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\projectbundle\MeuSiteEmMVC.bundle.scp.css
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.dll
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\refint\MeuSiteEmMVC.dll
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.pdb
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.genruntimeconfig.cache
+C:\Users\Gabriele\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\ref\MeuSiteEmMVC.dll
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.staticwebassets.runtime.json
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.exe
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.deps.json
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.runtimeconfig.json
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.dll
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.pdb
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.csproj.AssemblyReference.cache
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.AssemblyInfoInputs.cache
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.AssemblyInfo.cs
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.csproj.CoreCompileInputs.cache
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.RazorAssemblyInfo.cache
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.RazorAssemblyInfo.cs
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\bundle\MeuSiteEmMVC.styles.css
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\projectbundle\MeuSiteEmMVC.bundle.scp.css
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.dll
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\refint\MeuSiteEmMVC.dll
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.pdb
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.genruntimeconfig.cache
+C:\Users\gabriele.bublitz\source\repos\Projeto-AccessibiltyWay\accWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\ref\MeuSiteEmMVC.dll
