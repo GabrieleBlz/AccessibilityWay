@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriele.bublitz\\source\\repos\\Projeto-AccessibiltyWay\\accWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj": {}
+    "C:\\Source\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriele.bublitz\\source\\repos\\Projeto-AccessibiltyWay\\accWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj": {
+    "C:\\Source\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriele.bublitz\\source\\repos\\Projeto-AccessibiltyWay\\accWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
+        "projectUniqueName": "C:\\Source\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
         "projectName": "MeuSiteEmMVC",
-        "projectPath": "C:\\Users\\gabriele.bublitz\\source\\repos\\Projeto-AccessibiltyWay\\accWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
+        "projectPath": "C:\\Source\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
         "packagesPath": "C:\\Users\\gabriele.bublitz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriele.bublitz\\source\\repos\\Projeto-AccessibiltyWay\\accWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\obj\\",
+        "outputPath": "C:\\Source\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "\\\\Server\\c#-vespertino\\gabriele.bublitz\\AppData\\Roaming\\NuGet\\NuGet.Config",
