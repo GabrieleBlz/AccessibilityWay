@@ -1,6 +1,6 @@
 ﻿html {
     font-size: 18px;
-    border:2px;
+    border: 2px;
 }
 
 html {
@@ -14,5 +14,8 @@ body {
 
 .inputBox {
     background-color: white;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    float: initial;
+    font-family: 'Spectral SC', serif;
 }
+
+

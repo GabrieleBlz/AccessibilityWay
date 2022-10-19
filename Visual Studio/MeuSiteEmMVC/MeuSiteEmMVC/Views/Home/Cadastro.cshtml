@@ -12,13 +12,7 @@
     <title>Conheça nossa Equipe</title>
 </head>
 
-<body>
-    <style>
-        p {
-            font-family: Consolas;
-            color: black;
-        }
-    </style>
+<body class="Corpo">
 
     <label class="box">
         <form cadastro="inputBox">
@@ -32,13 +26,13 @@
                 </div>
 
                 <div class="inputBox">
-                    <label for="tel" data-error="wrong" data-success="right">Telefone: </label>
-                    <input id="telefone" type="tel" class="validate" placeholder="(xx) xxxxx-xxxx">
+                    <label for="nasc" data-error="wrong" data-success="right"> Data de Nascimento: </label>
+                    <input id="dataNascimento" type="date" class="validate" required>
                 </div>
 
                 <div class="inputBox">
-                    <label for="nasc" data-error="wrong" data-success="right"> Data de Nascimento: </label>
-                    <input id="dataNascimento" type="date" class="validate" required>
+                    <label for="tel" data-error="wrong" data-success="right">Telefone: </label>
+                    <input id="telefone" type="tel" class="validate" placeholder="(xx) xxxxx-xxxx">
                 </div>
 
                 <div class="inputBox">
@@ -49,7 +43,9 @@
                 <div class="inputBox">
                     <label for="cep" data-error="wrong" data-success="right">CEP:</label>
                     <input id="cpf" type="text" class="validate" />
+                </div>
 
+                <div class="Estado">
                     <label for="uf">Estado: </label>
                     <select id="uf">
                         <option value="AC">Acre</option>
@@ -85,7 +81,9 @@
                 <div class="inputBox">
                     <label for="endereco" data-error="wrong" data-success="right">Endereço:</label>
                     <input id="endereco" type="text" class="validate" />
+                </div>
 
+                <div class="inputBox">
                     <label for="rua" data-error="wrong" data-success="right">N°:</label>
                     <input id="rua" type="text" class="validate" />
                 </div>
@@ -105,19 +103,13 @@
                     <input id="rua" type="text" class="validate" />
                 </div>
 
-                <div class="inputBox">
-                    <label for="condicao" data-error="wrong" data-success="right">Condição:</label>
-                    <input id="condicao" type="text" class="validate" />
-                </div>
-
-                <div class="inputBox">
-                <label for="tempo" data-error="wrong" data-success="right">Tempo da condição:</label>
-                <input id="tempo" type="checkbox" class="validate" />
-                <label for="tempo"> Temporario </label>
-
-                <input id="tempo" type="checkbox" class="validate" />
-                <label for="tempo"> Permanente </label>
-                </div>
+                 <div class="inputBox">
+                    <label for="tp">Tempo de Condição: </label>
+                    <select id="cond">
+                        <option value="PM">Permanente</option>
+                        <option value="TM">Temporario</option>
+                     </select>
+                  </div>
 
                 <div class="inputBox">
                     <label for="foto" data-error="wrong" data-success="right">Foto:</label>
@@ -129,8 +121,8 @@
                     <input id="doc" type="file" class="validate" />
                 </div>
 
-                <input type="reset" name="b1" value="Limpar">
-                <input type="submit" name="b2" value="Enviar">
+                <input class="Button" type="reset" name="b1" value="Limpar">
+                <input class= "BUtton" type="submit" name="b2" value="Enviar">
 
             </fieldset>
         </form>
