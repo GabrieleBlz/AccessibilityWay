@@ -38,11 +38,16 @@ body.Principal
     background-image: url('../img/Principal/fundo.jpg');
 }
 
-div.text-center 
-{
+div.text-center {
+    text-align: center;
+/*    width: 600px;
+    height: 100px;
+    object-fit: fill;
+    background: #FFC9DEF5;*/
     color: black;
     font-weight: 700;
     font-size: 18px;
+    border-radius: 15px;
 }
 
 h1.Ideia, h1.Problema, h1.Contexto, h1.Objetivos 
@@ -71,15 +76,22 @@ div.homeArticle, div.homeArticle2, div.homeArticle3, div.homeArticle4
     min-height: 190px;
     font-size: 20px;
 }
-
 div.homeArticle img 
 {
+    /*width: 1200px;
+    height: 500px;*/
+    object-fit: fill;
     float: left;
     margin-right: 10px;
     border: 1px solid black;
     border-radius: 15px;
 }
-
+/*div.imgMeio
+{
+    width: 140px;
+    height: 140px;
+    object-fit: fill;
+}*/
 /*div.homeArticle2 
 {
     text-align: center;
