@@ -12,13 +12,13 @@ body {
     margin-bottom: 60px;
 }
 
-form.inputBox{
-    float: left;
-    width: 70%;
-    background-color:burlywood;
+form.inputBox {
+/*    float: left;
+*/  width: 100%;
+    background-color: #34743C;
     margin: 10px;
     padding: 10px;
-    border-radius:8px;
+    border-radius: 8px;
 }
 div.form-row{
     width: 100%;
@@ -33,6 +33,14 @@ div.form-group1{
     display: inline-block;
     margin: 2px;
     padding: 19px;
+}
+
+footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background: white;
+    display: block;
 }
 
 

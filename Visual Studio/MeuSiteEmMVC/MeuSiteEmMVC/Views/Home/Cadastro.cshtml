@@ -9,41 +9,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="~/css/Cadastro.css">
     <link rel="stylesheet" href="~/css/site.css">
-
-    <title>Conheça nossa Equipe</title>
 </head>
 
 <body class="Corpo">
+    <h1>Cadastro</h1>
     <form class="inputBox">
         <div class="form-row">
-            <div class="form-group col-md-8">
+            <div class="form-group col-md-5">
                 <label for="inputNome">Nome Completo:</label>
-                <input type="text" class="form-control" id="inputNome" placeholder="Insira seu nome completo" required />
+                <input type="text" class="form-control" id="inputNome" placeholder="Insira: " required />
             </div>
             <div class="form-group col-md-3">
                 <label for="inputCpf">CPF:</label>
-                <input type="text" class="form-control" id="inputCpf" placeholder="CPF somente números"required />
+                <input type="text" class="form-control" id="inputCpf" placeholder="xxx.xxx.xxx-xx" required pattern="(\d{3}\.?\d{3}\.?\d{3}-?\d{2})" />
             </div>
-        </div>
-        <div class="form-row">
         <div class="form-group1 col-md-3">
             <label for="inputDataNasc">Data de Nascimento:</label>
-            <input type="text" class="form-control" id="inputDataNasc" placeholder="xx/xx/xxxx" required/>
-        </div>
-        <div class="form-group1 col-md-4">
-            <label for="inputTel">Telefone:</label>
-            <input type="text" class="form-control" id="inputTel" placeholder="(xx) xxxxx-xxxx"/>
-        </div>
-        <div class="form-group1 col-md-4">
-            <label for="inputCep">CEP:</label>
-            <input type="text" class="form-control" id="inputCep" placeholder="Insira seu CEP"/>
+            <input type="date" class="form-control" id="inputDataNasc" placeholder="xx/xx/xxxx" required/>
         </div>
         </div>
         <div class="form-row">
+        <div class="form-group1 col-md-2">
+            <label for="inputTel">Telefone:</label>
+            <input type="tel" class="form-control" id="inputTel" placeholder="(xx) xxxxx-xxxx"/>
+        </div>
+        <div class="form-group1 col-md-2">
+            <label for="inputCep">CEP:</label>
+            <input type="text" class="form-control" id="inputCep"  placeholder="Insira seu CEP"/>
+        </div>
             <div class="form-group col-md-3">
-                <label for="inputEstado">Estado</label>
-                <select id="inputEstado" class="form-control">
-                    <option selected>Selecione seu estado</option>
+                <label for="inputUf">UF:</label>
+                <select id="inputUf" class="form-control">
+                    <option selected>Selecione: </option>
                     <option value="AC">Acre</option>
                     <option value="AL">Alagoas</option>
                     <option value="AP">Amapá</option>
@@ -75,32 +72,63 @@
             </div>
             <div class="form-group col-md-4">
                 <label for="inputCidade">Cidade:</label>
-                <input type="text" class="form-control" id="inputCidade" placeholder="Informe o nome da cidade">
-            </div>
-            <div class="form-group col-md-4">
-                <label for="inputBairro">Bairro:</label>
-                <input type="text" class="form-control" id="inputBairro" placeholder="Informe o nome do bairro">
+                <input type="text" class="form-control" id="inputCidade" placeholder="Informe o nome da Cidade">
             </div>
         </div>
         <div class="form-row">
-            <div class="form-group col-md-8">
-                <label for="inputRua">Rua:</label>
-                <input type="text" class="form-control" id="inputRua">
-            </div>
             <div class="form-group col-md-3">
+                <label for="inputBairro">Bairro:</label>
+                <input type="text" class="form-control" id="inputBairro" placeholder="Informe o nome do Bairro">
+            </div>
+            <div class="form-group col-md-5">
+                <label for="inputRua">Rua:</label>
+                <input type="text" class="form-control" id="inputRua" placeholder="Informe o nome da Rua">
+            </div>
+
+            <div class="form-group col-md-1">
                 <label for="inputNumCasa">Nº:</label>
                 <input type="text" class="form-control" id="inputNumCasa">
             </div>
-        </div>
-        <div class="form-group">
-            <div class="form-check">
-                <input class="form-check-input" type="checkbox" id="gridCheck">
-                <label class="form-check-label" for="gridCheck">
-                    Clique em mim
-                </label>
+
+            <div class="form-group col-md-2">
+                <label for="inputRua">Complemento:</label>
+                <input type="text" class="form-control" id="inputComp" placeholder="">
             </div>
+
         </div>
+
+
+        <div class="form-row">
+        <div class="form-group col-md-3">
+            <label for="inputRua">Condição:</label>
+            <input type="text" class="form-control" id="inputCond" placeholder="Informe sua Condição:">
+        </div>
+
+            <div class="form-group col-md-2">
+                <label for="inputCond">Tempo da Condição:</label>
+                <select id="inputCond" class="form-control">
+                    <option selected>Selecione: </option>
+                    <option value="PM">Permanente</option>
+                    <option value="TM">Temporario</option>
+                    </select>
+                    </div>
+
+        <div class="form-group col-md-3">
+            <label for="inputNumCasa">Documento Médico:</label>
+            <input type="file" class="form-control" id="inputFile">
+        </div>
+
+        <div class="form-group col-md-3">
+            <label for="inputNumCasa">Foto:</label>
+            <input type="file" class="form-control" id="inputFile">
+        </div>
+        </div>
+
+        <div class="button">
         <button type="submit" class="btn btn-primary">Entrar</button>
+        <button type="reset" class="btn btn-primary">Limpar</button>
+        </div>
+
     </form>
 </body>
 </html>
