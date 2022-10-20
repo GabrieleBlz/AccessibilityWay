@@ -12,10 +12,28 @@ body {
     margin-bottom: 60px;
 }
 
-.inputBox {
-    background-color: white;
-    float: initial;
-    font-family: 'Spectral SC', serif;
+form.inputBox{
+    float: left;
+    width: 70%;
+    background-color:burlywood;
+    margin: 10px;
+    padding: 10px;
+    border-radius:8px;
 }
+div.form-row{
+    width: 100%;
+    margin: 0px;
+}
+div.form-group {
+    display: inline-block;
+    margin:2px;
+    padding:19px;
+}
+div.form-group1{
+    display: inline-block;
+    margin: 2px;
+    padding: 19px;
+}
+
 
 
