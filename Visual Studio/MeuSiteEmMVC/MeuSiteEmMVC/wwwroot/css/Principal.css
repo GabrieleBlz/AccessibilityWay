@@ -3,22 +3,18 @@ html {
     font-size: 14px;
 }
 
-@media (min-width: 768px) 
-{
-    html 
-    {
+@media (min-width: 768px) {
+    html {
         font-size: 16px;
     }
 }
 
-html 
-{
+html {
     position: relative;
     min-height: 100%;
 }
 
-body 
-{
+body {
     margin-bottom: 60px;
 }
 /*h1.Cabeçalho 
@@ -28,19 +24,17 @@ body
     border-radius: 15px;
     box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.3);
 }*/
-div.container-fluid 
-{
+div.container-fluid {
     background: white;
 }
 
-body.Principal 
-{
+body.Principal {
     background-image: url('../img/Principal/fundo.jpg');
 }
 
 div.text-center {
     text-align: center;
-/*    width: 600px;
+    /*    width: 600px;
     height: 100px;
     object-fit: fill;
     background: #FFC9DEF5;*/
@@ -50,23 +44,15 @@ div.text-center {
     border-radius: 15px;
 }
 
-h1.Ideia, h1.Problema, h1.Contexto, h1.Objetivos 
-{
+h1.Ideia, h1.Contexto, h1.Objetivos {
     text-align: left;
     font-size: 38px;
 }
-
-h1.Ideia 
-{
-    text-align: center;
-    font-size: 38px;
-}
-
-div.homeArticle, div.homeArticle2, div.homeArticle3, div.homeArticle4
-{
-    text-align: center;
+/*Ideia*/
+div.homeArticle {
+    text-align: left;
     width: 95%;
-    background-color: rgba(255,255,255,0.7);
+    background-color: rgba(255,255,255,0.8);
     margin: 5px 2%;
     display: inline-block;
     float: left;
@@ -76,27 +62,40 @@ div.homeArticle, div.homeArticle2, div.homeArticle3, div.homeArticle4
     min-height: 190px;
     font-size: 20px;
 }
-div.homeArticle img 
+/*div.homeArticle img 
 {
-    /*width: 1200px;
-    height: 500px;*/
+    width: 1200px;
+    height: 500px;
+    object-fit: fill;
+    float: left;
+    margin-right: 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+}*/
+div.Um img {
+    width: 500px;
+    height: 400px;
+    object-fit: fill;
+    float: right;
+    margin-right: 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+div.Dois img {
+    width: 400px;
+    height: 250px;
     object-fit: fill;
     float: left;
     margin-right: 10px;
     border: 1px solid black;
     border-radius: 15px;
 }
-/*div.imgMeio
-{
-    width: 140px;
-    height: 140px;
-    object-fit: fill;
-}*/
-/*div.homeArticle2 
-{
+/*Problematização*/
+div.homeArticle2 {
     text-align: center;
-    width: 50%;
-    background-color: white;
+    width: 95%;
+    background-color: rgba(255,255,255,0.8);
     margin: 5px 2%;
     display: inline-block;
     float: left;
@@ -105,9 +104,113 @@ div.homeArticle img
     padding: 15px;
     min-height: 190px;
     font-size: 20px;
-}*/
+}
 
-footer 
-{
+    div.homeArticle2 img {
+        width: 250px;
+        height: 320px;
+        object-fit: fill;
+        float: left;
+        margin-right: 10px;
+        border: 1px solid black;
+        border-radius: 15px;
+    }
+/*Mudanças*/
+div.homeArticle5 {
+    text-align: left;
+    width: 95%;
+    background-color: rgba(255,255,255,0.8);
+    margin: 5px 2%;
+    margin-right: 12px;
+    display: inline-block;
+    float: left;
+    border-radius: 15px;
+    box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.3);
+    padding: 15px;
+    min-height: 190px;
+    font-size: 20px;
+}
+
+div.imgCartao img {
+    width: 500px;
+    height: 250px;
+    object-fit: fill;
+    float: left;
+    margin-right: 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+div.imgtransito img {
+    width: 400px;
+    height: 250px;
+    object-fit: fill;
+    float: right;
+    margin-right: 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+/*Objetivos*/
+div.homeArticle4 {
+    text-align: left;
+    width: 95%;
+    background-color: rgba(255,255,255,0.8);
+    margin: 5px 2%;
+    display: inline-block;
+    border-radius: 15px;
+    box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.3);
+    padding: 15px;
+    min-height: 190px;
+    font-size: 20px;
+}
+
+div.tres img {
+    width: 350px;
+    height: 340px;
+    object-fit: fill;
+    float: right;
+    margin-right: 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+div.quatro img {
+    width: 200px;
+    height: 200px;
+    object-fit: fill;
+    float: left;
+    margin-right: 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+/*Outros*/
+h1.Problema, h1.Ideia, h1.Objetivos, h1.melhoriasC, h1.melhoriasP {
+    color: black;
+    line-height: 1.2;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 38px;
+}
+
+h5.impacto {
+    color: black;
+    line-height: 2.0;
+}
+
+div.canto img {
+    width: 270px;
+    height: 360px;
+    object-fit: fill;
+    /*float: right;*/
+    margin-right: 5px 2%;
+    box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.3);
+    border-radius: 15px;
+}
+
+footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
     background: white;
+    display: block;
 }
