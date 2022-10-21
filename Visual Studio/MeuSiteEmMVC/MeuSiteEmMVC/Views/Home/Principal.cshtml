@@ -11,112 +11,109 @@
     <link rel="stylesheet" href="~/MeuSiteEmMVC.styles.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/Principal.css" asp-append-version="true" />
 </head>
+@*<body class="page">
+    <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
 
-<body class = "Principal">
-    <div class="text-center">
-        @*Título*@
-       @* <h1 class="Cabeçalho">Accessibility Way!</h1> *@
+        <div class="carousel-item active">
+            <div class="carousel-item">
+                <img class="img" width="100%" height="100%" src="~/img/Principal/Problematização.png" >
+            </div>
+            <div class="carousel-item active">
+                <img class="img" width="100%" height="100%" src="~/img/Principal/Problematização.png" >
+                <div class="container">
+                    <div class="carousel-caption">
+                    </div>
+*                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+</body>*@
+@*<body>
+    <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img class="img" src="~/img/Principal/Problematização.png" alt="Primeiro Slide">
+            </div>
+            <div class="carousel-item active">
+                <img class="img" src="~/img/Principal/Problematização.png" alt="Segundo Slide">
+            </div>
+            <div class="carousel-item active">
+                <img class="img" src="~/img/Principal/Problematização.png" alt="Terceiro Slide">
+            </div>
+        </div>
+
+    <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+</body>*@
+<body>
+    <!-- Carousel wrapper -->
+<div id="carouselBasicExample" class="carousel slide carousel-fade" data-mdb-ride="carousel">
+  <!-- Indicators -->
+  <div class="carousel-indicators">
+    <button
+      type="button"
+      data-mdb-target="#carouselBasicExample"
+      data-mdb-slide-to="0"
+      class="active"
+      aria-current="true"
+      aria-label="Slide 1"
+    ></button>
+    <button
+      type="button"
+      data-mdb-target="#carouselBasicExample"
+      data-mdb-slide-to="1"
+      aria-label="Slide 2"
+    ></button>
+    <button
+      type="button"
+      data-mdb-target="#carouselBasicExample"
+      data-mdb-slide-to="2"
+      aria-label="Slide 3"
+    ></button>
+  </div>
+
+  <!-- Inner -->
+  <div class="carousel-inner">
+    <!-- Single item -->
+    <div class="carousel-item active">
+      <img src="~/img/Principal/Problematização.png" class="d-block w-100" alt="Sunset Over the City"/>
     </div>
 
-    <article>
-        @*Problematização*@
-        <div class = "homeArticle2">
-            <img src = "~/img/Principal/acessibilidade2.jpg" />
-            <h1 class = "Problema">Problematização nos dias Atuais!</h1>
-            <h5 class = "impacto">Fique por dentro do novo projeto de Inovação no sistema de trânsito!</h5>
-            @*<p></p>*@
-            <p>
-                Após presenciarmos o trânsito na pele, notamos uma dificuldade e demora ao tentar atravessar uma faixa de
-                pedestre na cidade, além de que o trânsito no horário de pico é mal otimizado e desorganizado, então a questão que fica é:
-                qual motivo do trânsito ser mal otimizado? Por que é tão difícil atravessar uma faixa de pedestres e ter preferência no
-                trânsito? Devido a isso, nosso projeto tem a ideia de acabar    com essas injustiças no trânsito, tornando algo mais simples
-                para todos.
-            </p>
-        </div>
+    <!-- Single item -->
+    <div class="carousel-item">
+      <img src="~/img/Principal/Problematização.png" class="d-block w-100" alt="Canyon at Nigh"/>
+    </div>
 
-        @*Melhorias/Carros*@
-        <div class = "homeArticle5">
-            <div class = "imgtransito">
-                <img src = "~/img/Principal/estresse.jpg" />
-            </div>
-            <h1 class = "melhoriasC">Mudanças no tráfego de carros</h1>
-            <p>
-                Mostramos o problema localizado no sistema nos dias atuais, mas agora vamos 
-                deixa-lo por dentro das mudanças que serão feitas ao incrementarmos aos semáforos. 
-                Pistas que não possuem cruzamento irão ter semáforos para as faixas 
-                que irão abrir somente quando o pedestre apertar o botão, o tempo para apertar 
-                de novo é de trinta segundos. Para pistas que possuem cruzamento, uma das pistas irá ficar
-                aberta para os carros enquanto a outra para os pedestres e visse versa, os
-                semafóros se abrem e se fecham por aproximadamente, de 45 segundos em 45 segundos.
-            </p>
-            <div class = "imgCartao">
-            <img src = "~/img/Principal/cartão.jpg" />
-            </div>
-            <h1 class = "melhoriasP">Mudanças no tráfego de Pedestres!</h1>
-            <p>
-                O local do botão para pedestres faz um som alto, que sinaliza aos cegos onde fica o botão; um barulho sinaliza quando
-                o semáforo está aberto e outro quando está fechado. O cartão com um código de barras é disponibilizado para qualquer pessoa
-                possuidora de alguma deficiência, grávidas e pessoas com bebê de colo.
-            </p>
-        </div>
+    <!-- Single item -->
+    <div class="carousel-item">
+      <img src="~/img/Principal/Problematização.png" class="d-block w-100" alt="Cliff Above a Stormy Sea"/>
+    </div>
+  <!-- Inner -->
 
-        @*Ideia*@
-        <div class = "homeArticle">
-            <div class = "Um">
-                <img src = "~/img/Principal/estresse.jpg" />
-            </div>
-            <h1 class = "Ideia">Surgimento da ideia!</h1>
-            <p>Após realizar pesquisas e vivenciar o trânsito atual, é possível notar que existem algumas melhorias a serem feitas no
-                sistema de trânsito, mais precisamente nos semáforos. Ao analisar ambos os lados (pedestres, motoristas e ciclistas)
-                encontramos a necessidade de trazer mais acessibilidade para a população em geral, mas principalmente para os pedestres com
-                deficiência ou gestantes. Nossa equipe encontrou uma maneira de melhorar esse sistema, criando um projeto visando uma
-                melhor organização do trânsito e tornando mais rápida a travessia da população em geral (motoristas, ciclistas e pedestres).
-            <p/>
-            <p>
-                Um levantamento do Instituto Brasileiro de Geografia e Estatística (IBGE) em 2019 aponta que 8,4% da população
-                brasileira acima de 2 anos, o que representa 17,3 milhões de pessoas têm algum tipo de deficiência. Quase metade dessa
-                parcela, cerca de 49,4% é de idosos. Na faixa etária acima de 60 anos, a probabilidade é de uma a cada quatro pessoas com
-                algum tipo de deficiência.
-            </p>
-            <div class = "Dois">
-            <img src = "~/img/Principal/pesquisa.png" widht: 200px; />
-            </div>
-            <p>
-                Acreditamos que a vida das pessoas que possuem alguma deficiência ou em período de gestação não deveriam ter tanta
-                dificuldade em atividades básicas e comuns do dia a dia, principalmente nas ruas ou no trânsito. Pensando então na
-                população em geral que vivencia o trânsito e as ruas atualmente, nosso sistema planeja encurtar o período de tempo
-                de espera para a travessia em faixa de pedestres e também evitar engarrafamentos, tornando mais flexível o tempo de
-                espera para abrir ou fechar o semáforo.
-            </p>
-        </div>
-
-        @*Objetivos*@
-        <div class = "homeArticle4">
-            <div class = "tres">
-            <img src = "~/img/Principal/sinal.jpg" />
-            </div>
-            <h1 class = "Objetivos">Objetivos Gerais!</h1>
-            <p>
-                A ideia do projeto é conseguirmos melhorar a qualidade de vida dos motoristas, pedestres, em geral, todos
-                (motociclistas, ciclistas), mas principalmente para pessoas que precisam de acessibilidade. A acessibilidade hoje em dia é
-                um problema que está na sociedade a muito tempo e não tem sido considerada algo de muita atenção, até porque são seres
-                humanos iguais a nós. Quando vamos a muitos lugares é difícil ter algo para pessoas que necessitam de acessibilidade, e o
-                lugar mais comum onde todos andamos todos os dias, é o principal, onde não se colabora com pessoas gestantes e com
-                deficiência. Por se tornar um problema “esquecido”, por que não ajudarmos com um sistema que beneficie a quem mais precisa HOJE?
-            </p>
-            <div class = "quatro">
-                <img src = "~/img/Principal/acessibilidade3.jpg" />
-            </div>
-            <h1 class = "Objetivos">Objetivos Específicos</h1>
-            <p>
-                ● Reorganizar da melhor maneira o trânsito atual.
-            </p>
-            <p>
-                ● Tornar os semáforos e as faixas de pedestres mais práticas e mais acessíveis para a população.
-            </p>
-            <p>
-                ● Apresentar um meio de diminuir o engarrafamento no trânsito.
-            </p>
-        </div>
-    </article>
+  <!-- Controls -->
+    <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+<!-- Carousel wrapper -->
 </body>
+</html>
