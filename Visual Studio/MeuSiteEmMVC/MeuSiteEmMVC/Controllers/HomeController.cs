@@ -7,7 +7,7 @@ namespace MeuSiteEmMVC.Controllers
     public class HomeController : Controller
     {
 
-        public IActionResult Index()
+        public IActionResult Principal()
         {
             return View();
         }
