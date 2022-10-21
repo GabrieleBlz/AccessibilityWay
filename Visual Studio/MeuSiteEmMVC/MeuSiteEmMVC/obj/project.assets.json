@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Gabriele\\.nuget\\packages\\": {}
+    "C:\\Users\\gabriele.bublitz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
+      "projectUniqueName": "C:\\Users\\gabriele.bublitz\\Source\\Repos\\GabrieleBlz\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
       "projectName": "MeuSiteEmMVC",
-      "projectPath": "C:\\Source\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
-      "packagesPath": "C:\\Users\\Gabriele\\.nuget\\packages\\",
-      "outputPath": "C:\\Source\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\obj\\",
+      "projectPath": "C:\\Users\\gabriele.bublitz\\Source\\Repos\\GabrieleBlz\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
+      "packagesPath": "C:\\Users\\gabriele.bublitz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gabriele.bublitz\\Source\\Repos\\GabrieleBlz\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Gabriele\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "\\\\Server\\c#-vespertino\\gabriele.bublitz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -63,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
