@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "TR9++bquF/A2pUFO+/V/hRP6aOTDX6F/EoaO7VbKwMLf1mb+DO469mAaRXurQOkhN/LALcb3lB048zZGovtA/w==",
   "success": true,
   "projectFilePath": "C:\\Users\\gabriele.bublitz\\Source\\Repos\\GabrieleBlz\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
+=======
+  "dgSpecHash": "64BHLf5zrHdR2kGFnEFcEWar9g1lErh10/tnGkoW7gxN4Ann9dFqrvkhUgU/hH52106OcKBJCicDBMsdQgWdpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Source\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [],
   "logs": []
 }

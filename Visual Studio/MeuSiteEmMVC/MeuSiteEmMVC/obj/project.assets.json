@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
       "projectUniqueName": "C:\\Users\\gabriele.bublitz\\Source\\Repos\\GabrieleBlz\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
       "projectName": "MeuSiteEmMVC",
       "projectPath": "C:\\Users\\gabriele.bublitz\\Source\\Repos\\GabrieleBlz\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
       "packagesPath": "C:\\Users\\gabriele.bublitz\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\gabriele.bublitz\\Source\\Repos\\GabrieleBlz\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\obj\\",
+=======
+      "projectUniqueName": "C:\\Source\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
+      "projectName": "MeuSiteEmMVC",
+      "projectPath": "C:\\Source\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
+      "packagesPath": "C:\\Users\\gabriele.bublitz\\.nuget\\packages\\",
+      "outputPath": "C:\\Source\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\obj\\",
+>>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "\\\\Server\\c#-vespertino\\gabriele.bublitz\\AppData\\Roaming\\NuGet\\NuGet.Config",
