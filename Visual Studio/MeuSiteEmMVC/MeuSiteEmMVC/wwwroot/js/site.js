@@ -1,8 +1,4 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
-
-// Write your JavaScript code.
-const controls = document.querySelectorAll(".control");
+﻿const controls = document.querySelectorAll(".control");
 let currentItem = 0;
 const items = document.querySelectorAll(".item");
 const maxItems = items.length;

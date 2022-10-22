@@ -37,7 +37,8 @@ div.container
 {
     color: black;
 }
-footer {
+footer 
+{
     background-image: linear-gradient(to right, #4FCB03, #096D1F);
     width: 100%;
     position: fixed;
@@ -46,31 +47,23 @@ footer {
     display: block;
 }
 /*Carousel*/
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-h1 {
-    text-align: center;
-    margin: 1em 0;
-    font-family: sans-serif;
-}
-
-.container {
+.container 
+{
     position: relative;
-    padding: 15px;
-    max-width: 640px;
+    padding: 4px;
+    max-width: 1150px;
+/*    max-height: 800px;*/
     margin: 0 auto;
 }
 
-.gallery-wrapper {
+.gallery-wrapper 
+{
     overflow-x: auto;
 }
 
 .arrow-left,
-.arrow-right {
+.arrow-right 
+{
     position: absolute;
     top: 0;
     left: 0;
@@ -87,67 +80,67 @@ h1 {
     border: none;
 }
 
-    .arrow-left:hover,
-    .arrow-right:hover {
-        opacity: 1;
-    }
+.arrow-left:hover,
+.arrow-right:hover 
+{
+    opacity: 1;
+}
 
-.arrow-right {
+.arrow-right 
+{
     right: 0;
     left: auto;
     text-align: right;
     background: linear-gradient(to right, transparent 0%, black 200%);
 }
 
-.gallery {
+.gallery 
+{
     display: flex;
     flex-flow: row nowrap;
     gap: 15px;
 }
 
-.item {
-    width: 500px;
-    height: 250px;
+.item 
+{
+    width: 1135px;
+    height: 700px;
+    border-radius: 15px;
     flex-shrink: 0;
     transition: all 600ms ease-in-out;
     opacity: 0.5;
 }
 
-.current-item {
+.current-item 
+{
     opacity: 1;
 }
-
-/* This is from w3schools */
-/* 
-https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp */
-/* Hide scrollbar for Chrome, Safari and Opera */
-.gallery-wrapper::-webkit-scrollbar {
+.gallery-wrapper::-webkit-scrollbar 
+{
     display: none;
 }
-
-/* Hide scrollbar for IE, Edge and Firefox */
-.gallery-wrapper {
-    -ms-overflow-style: none; /* IE and Edge */
-    scrollbar-width: none; /* Firefox */
-}
-
-.cyan {
+.cyan 
+{
     background: cyan;
 }
 
-.deeppink {
+.deeppink 
+{
     background: deeppink;
 }
 
-.turquoise {
+.turquoise 
+{
     background: turquoise;
 }
 
-.darkblue {
+.darkblue 
+{
     background: darkblue;
 }
 
-.purple {
+.purple 
+{
     background: purple;
 }
 
