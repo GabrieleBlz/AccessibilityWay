@@ -15,17 +15,23 @@
     <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
 
         <div class="carousel-item active">
-            <div class="carousel-item">
-                <img class="img" width="100%" height="100%" src="~/img/Principal/Problematização.png" >
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="img" width="100px" height="100px" src="~/img/Principal/Problematização.png" alt="Primeiro Slide">
+                </div>
+                <div class="carousel-item active">
+                    <img class="img" width="100px" height="100px" src="~/img/Principal/MudançasC.png" alt="Segundo Slide">
+                </div>
+                <div class="carousel-item active">
+                    <img class="img" width="100px" height="100px" src="~/img/Principal/Problematização nos dias Atuais!.png" alt="Terceiro Slide">
+                </div>
             </div>
-            <div class="carousel-item active">
-                <img class="img" width="100%" height="100%" src="~/img/Principal/Problematização.png" >
                 <div class="container">
                     <div class="carousel-caption">
                     </div>
-*                </div>
-            </div>
+                </div>
         </div>
+    </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Previous</span>
@@ -61,59 +67,23 @@
 </div>
 </body>*@
 <body>
-    <!-- Carousel wrapper -->
-<div id="carouselBasicExample" class="carousel slide carousel-fade" data-mdb-ride="carousel">
-  <!-- Indicators -->
-  <div class="carousel-indicators">
-    <button
-      type="button"
-      data-mdb-target="#carouselBasicExample"
-      data-mdb-slide-to="0"
-      class="active"
-      aria-current="true"
-      aria-label="Slide 1"
-    ></button>
-    <button
-      type="button"
-      data-mdb-target="#carouselBasicExample"
-      data-mdb-slide-to="1"
-      aria-label="Slide 2"
-    ></button>
-    <button
-      type="button"
-      data-mdb-target="#carouselBasicExample"
-      data-mdb-slide-to="2"
-      aria-label="Slide 3"
-    ></button>
-  </div>
-
-  <!-- Inner -->
-  <div class="carousel-inner">
-    <!-- Single item -->
-    <div class="carousel-item active">
-      <img src="~/img/Principal/Problematização.png" class="d-block w-100" alt="Sunset Over the City"/>
+    <div class="container">
+        <button class="arrow-left control" aria-label="Previous image">◀</button>
+        <button class="arrow-right control" aria-label="Next Image">▶</button>
+        <div class="gallery-wrapper">
+            <div class="gallery">
+                <!--       <div class="item current-item cyan"></div>
+                <div class="item deeppink"></div>
+                <div class="item turquoise"></div>
+                <div class="item darkblue"></div>
+                <div class="item purple"></div> -->
+                <img src="~/img/Principal/Problematização.png" alt="Beach Image" class="item current-item">
+                <img src="~/img/Principal/Problematização.png" alt="Animal Image" class="item current-item">
+                <img src="~/img/Principal/Problematização.png" alt="Street Image" class="item current-item">
+                <img src="~/img/Principal/Problematização.png" alt="Zoo Image" class="item current-item">
+                <img src="~/img/Principal/Problematização.png" alt="Model Image" class="item current-item">
+            </div>
+        </div>
     </div>
-
-    <!-- Single item -->
-    <div class="carousel-item">
-      <img src="~/img/Principal/Problematização.png" class="d-block w-100" alt="Canyon at Nigh"/>
-    </div>
-
-    <!-- Single item -->
-    <div class="carousel-item">
-      <img src="~/img/Principal/Problematização.png" class="d-block w-100" alt="Cliff Above a Stormy Sea"/>
-    </div>
-  <!-- Inner -->
-
-  <!-- Controls -->
-    <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
-    </button>
-<!-- Carousel wrapper -->
 </body>
 </html>

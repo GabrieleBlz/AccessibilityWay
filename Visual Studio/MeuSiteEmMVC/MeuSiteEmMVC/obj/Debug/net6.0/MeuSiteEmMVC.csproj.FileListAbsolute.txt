@@ -336,3 +336,29 @@ C:\Users\maria\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debu
 C:\Users\maria\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.pdb
 C:\Users\maria\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.genruntimeconfig.cache
 C:\Users\maria\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\ref\MeuSiteEmMVC.dll
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.staticwebassets.runtime.json
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.exe
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.deps.json
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.runtimeconfig.json
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.dll
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\bin\Debug\net6.0\MeuSiteEmMVC.pdb
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.csproj.AssemblyReference.cache
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.AssemblyInfoInputs.cache
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.AssemblyInfo.cs
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.csproj.CoreCompileInputs.cache
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.RazorAssemblyInfo.cache
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.RazorAssemblyInfo.cs
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\bundle\MeuSiteEmMVC.styles.css
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\scopedcss\projectbundle\MeuSiteEmMVC.bundle.scp.css
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.dll
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\refint\MeuSiteEmMVC.dll
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.pdb
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\MeuSiteEmMVC.genruntimeconfig.cache
+C:\Users\rosan\OneDrive\Área de Trabalho\AccessibilityWay\Visual Studio\MeuSiteEmMVC\MeuSiteEmMVC\obj\Debug\net6.0\ref\MeuSiteEmMVC.dll
