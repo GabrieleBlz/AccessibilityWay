@@ -3,7 +3,7 @@
 }
 
 .ourTeam-hedding p {
-    color: #979797;
+    color: black;
 }
 
 .ourTeam-hedding strong {
@@ -11,73 +11,74 @@
 }
 
 .ourTeam-hedding {
-    margin-bottom: 50px;
+    margin-bottom: 35px;
 }
 
     .ourTeam-hedding h1 {
-        font-size: 25px;
+        font-size: 50px;
         font-weight: bold;
-        color: #145889;
+        color: black;
     }
 
 .ourTeam-box {
     border-radius: 2px;
-    border-top: 6px solid #5DDDD3;
-    margin: 0px;
+    border-top: 10px solid black;
+    margin: 10px;
     background-color: #FFFFFF;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .section1 {
-    padding: 30px 0px 30px 0px;
+    padding: 15px 0px 30px 0px;
 }
 
     .section1 img {
-        border-radius: 50%;
-        height: 130px;
-        width: 130px;
+        border-radius: 90%;
+        height: 140px;
+        width: 140px;
     }
 
 .section2 p {
     font-weight: bold;
-    color: #5DDDD3;
-    letter-spacing: 1px;
+    color: black;
+    letter-spacing: 2px;
 }
 
 .section2 span {
-    color: #979597;
+    color: black;
 }
 
 .section3 {
-    background-color: #5DDDD3;
+    background-color: black;
+    position:center;
 }
 
     .section3 i {
         color: #ffffff !important;
-        padding: 15px;
-        font-size: 15px;
+        padding: 6px;
+        font-size: 20px;
     }
 
 .section-info {
-    border-top: 6px solid #90DFAA;
+    border-top: 8px solid black;
 }
 
     .section-info p {
-        color: #90DFAA;
+        color: black;
     }
 
     .section-info .section3 {
-        background-color: #90DFAA;
+        background-color: black;
     }
 
 .section-danger {
-    border-top: 6px solid #FD8469;
+    border-top: 8px solid black;
 }
 
     .section-danger p {
-        color: #FD8469;
+        color: black;
     }
 
     .section-danger .section3 {
-        background-color: #FD8469;
+        background-color: black;
     }
