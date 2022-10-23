@@ -9,6 +9,7 @@ html {
 }
 
 body {
+    background: #303739;
     margin-bottom: 60px;
 }
 
@@ -20,26 +21,34 @@ form.inputBox {
     padding: 10px;
     border-radius: 8px;
 }
+
 div.form-row {
     width: 100%;
     margin: 0px;
 }
+
 div.form-group {
     display: inline-block;
     margin:2px;
     padding:19px;
 }
+
 div.form-group1{
     display: inline-block;
     margin: 2px;
     padding: 19px;
 }
 
+div.container-fluid {
+    background-image: linear-gradient(to right, #4FCB03, #096D1F);
+}
+
 footer {
+    background-image: linear-gradient(to right, #4FCB03, #096D1F);
     width: 100%;
     position: fixed;
     bottom: 0;
-    background: white;
+    /*background: white;*/
     display: block;
 }
 

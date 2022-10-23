@@ -82,3 +82,21 @@
     .section-danger .section3 {
         background-color: black;
     }
+div.container-fluid {
+    background-image: linear-gradient(to right, #4FCB03, #096D1F);
+}
+div.container {
+    color: black;
+}
+
+footer {
+    background-image: linear-gradient(to right, #4FCB03, #096D1F);
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    display: block;
+}
+body {
+    background: #303739;
+    margin-bottom: 60px;
+}
