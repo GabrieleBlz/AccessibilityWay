@@ -16,3 +16,9 @@ html {
 body {
   margin-bottom: 60px;
 }
+.container-fluid {
+    font-weight: bold;
+    color: #303739;
+}
+
+

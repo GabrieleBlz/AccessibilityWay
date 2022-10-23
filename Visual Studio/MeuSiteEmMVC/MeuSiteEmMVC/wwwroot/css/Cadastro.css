@@ -26,9 +26,11 @@ body {
         color: #4FCB03;
     }
 form.inputBox {
-/*    float: left;
-*/  width: 100%;
-    background-color: #34743C;
+    /*    float: left;
+*/ width: 100%;
+    color: #4FCB03;
+    font-weight: bold;
+    font-size: 20px;
     margin: 10px;
     padding: 10px;
     border-radius: 8px;

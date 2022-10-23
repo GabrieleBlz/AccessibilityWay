@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saymo\\Source\\Repos\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj": {}
+    "C:\\Users\\saymo\\source\\repos\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saymo\\Source\\Repos\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj": {
+    "C:\\Users\\saymo\\source\\repos\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saymo\\Source\\Repos\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
+        "projectUniqueName": "C:\\Users\\saymo\\source\\repos\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
         "projectName": "MeuSiteEmMVC",
-        "projectPath": "C:\\Users\\saymo\\Source\\Repos\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
+        "projectPath": "C:\\Users\\saymo\\source\\repos\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\MeuSiteEmMVC.csproj",
         "packagesPath": "C:\\Users\\saymo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saymo\\Source\\Repos\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\obj\\",
+        "outputPath": "C:\\Users\\saymo\\source\\repos\\AccessibilityWay\\Visual Studio\\MeuSiteEmMVC\\MeuSiteEmMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saymo\\AppData\\Roaming\\NuGet\\NuGet.Config",

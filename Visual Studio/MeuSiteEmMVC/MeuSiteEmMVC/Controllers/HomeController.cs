@@ -22,6 +22,11 @@ namespace MeuSiteEmMVC.Controllers
             return View();
         }
 
+        public IActionResult Simulacao()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
