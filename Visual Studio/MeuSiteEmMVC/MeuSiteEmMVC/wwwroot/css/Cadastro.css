@@ -12,7 +12,19 @@ body {
     background: #303739;
     margin-bottom: 60px;
 }
+.ourTeam-hedding p {
+    color: white;
+    font-size: 18px;
+}
+.ourTeam-hedding {
+    margin-bottom: 35px;
+}
 
+    .ourTeam-hedding h1 {
+        font-size: 50px;
+        font-weight: bold;
+        color: #4FCB03;
+    }
 form.inputBox {
 /*    float: left;
 */  width: 100%;

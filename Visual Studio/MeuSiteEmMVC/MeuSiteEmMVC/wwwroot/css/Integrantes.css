@@ -1,9 +1,11 @@
 ﻿body {
-    background-color: white;
+    background: #303739;
+    margin-bottom: 60px;
 }
 
 .ourTeam-hedding p {
-    color: black;
+    color: white;
+    font-size: 18px;
 }
 
 .ourTeam-hedding strong {
@@ -17,7 +19,7 @@
     .ourTeam-hedding h1 {
         font-size: 50px;
         font-weight: bold;
-        color: black;
+        color: #4FCB03;
     }
 
 .ourTeam-box {
@@ -60,7 +62,7 @@
     }
 
 .section-info {
-    border-top: 8px solid black;
+    border-top: 8px solid #4FCB03;
 }
 
     .section-info p {
@@ -68,7 +70,7 @@
     }
 
     .section-info .section3 {
-        background-color: black;
+        background-color: #4FCB03;
     }
 
 .section-danger {
@@ -82,6 +84,12 @@
     .section-danger .section3 {
         background-color: black;
     }
+.fa-linkedin:before {
+    color: #303739;
+}
+.fa-github:before {
+    color: #303739;
+}
 div.container-fluid {
     background-image: linear-gradient(to right, #4FCB03, #096D1F);
 }
@@ -95,8 +103,4 @@ footer {
     position: fixed;
     bottom: 0;
     display: block;
-}
-body {
-    background: #303739;
-    margin-bottom: 60px;
 }
