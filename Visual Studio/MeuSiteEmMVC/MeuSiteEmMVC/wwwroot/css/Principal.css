@@ -23,12 +23,6 @@ body
     background: #303739;
     margin-bottom: 60px;
 }
-
-header.cabecalho 
-{
-
-}
-
 div.container-fluid 
 {
     background-image: linear-gradient(to right, #4FCB03, #096D1F);
@@ -43,7 +37,6 @@ footer
     width: 100%;
     position: fixed;
     bottom: 0;
-    /*    background: white;*/
     display: block;
 }
 /*Carousel*/
@@ -52,7 +45,6 @@ footer
     position: relative;
     padding: 4px;
     max-width: 1150px;
-/*    max-height: 800px;*/
     margin: 0 auto;
 }
 
@@ -85,7 +77,6 @@ footer
 {
     opacity: 1;
 }
-
 .arrow-right 
 {
     right: 0;
@@ -93,24 +84,21 @@ footer
     text-align: right;
     background: linear-gradient(to right, transparent 0%, black 200%);
 }
-
 .gallery 
 {
     display: flex;
     flex-flow: row nowrap;
     gap: 15px;
 }
-
 .item 
 {
-    width: 1135px;
-    height: 700px;
+    width: 1130px;
+    height: 600px;
     border-radius: 15px;
     flex-shrink: 0;
     transition: all 600ms ease-in-out;
     opacity: 0.5;
 }
-
 .current-item 
 {
     opacity: 1;
@@ -123,22 +111,18 @@ footer
 {
     background: cyan;
 }
-
 .deeppink 
 {
     background: deeppink;
 }
-
 .turquoise 
 {
     background: turquoise;
 }
-
 .darkblue 
 {
     background: darkblue;
 }
-
 .purple 
 {
     background: purple;
