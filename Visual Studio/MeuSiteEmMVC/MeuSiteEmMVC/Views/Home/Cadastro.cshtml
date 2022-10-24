@@ -107,7 +107,7 @@
         <div class="form-row">
         <div class="form-group col-md-3">
             <label for="inputRua">Condição:</label>
-            <input type="text" class="form-control" id="inputCond" placeholder="Informe sua Condição:">
+            <input type="text" class="form-control" id="inputCond" required placeholder="Informe sua Condição:">
         </div>
 
             <div class="form-group col-md-2">
@@ -121,16 +121,16 @@
 
         <div class="form-group col-md-3">
             <label for="inputNumCasa">Documento Médico:</label>
-            <input type="file" class="form-control" id="inputFile">
+            <input type="file" class="form-control" id="inputFile" required>
         </div>
 
         <div class="form-group col-md-3">
             <label for="inputNumCasa">Foto:</label>
-            <input type="file" class="form-control" id="inputFile">
+            <input type="file" class="form-control" id="inputFile" required>
         </div>
         </div>
-        <button type="button" class="btn btn-outline-success btn-lg">Salvar</button>
-        <button type="button" class="btn btn-outline-danger btn-lg">Excluir</button>
+        <button type="submit" class="btn btn-outline-success btn-lg">Salvar</button>
+        <button type="reset" class="btn btn-outline-danger btn-lg">Excluir</button>
     </form>
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
