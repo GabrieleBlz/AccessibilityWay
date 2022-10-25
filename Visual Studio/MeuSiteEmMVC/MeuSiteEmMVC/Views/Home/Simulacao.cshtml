@@ -8,6 +8,43 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="~/css/Integrantes.css">
     <link rel="stylesheet" href="~/css/site.css">
+    <link rel="stylesheet" href="~/css/Simulaçao.css">
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
+<body>
+    <div class = "Menu">
+        <h1 class = "titulo">A Simulação</h1>
+        <p>
+            A simulação foi desenvolvido através do Windows Forms, sendo usada a linguagem de C#.
+        </p>
+        <h3 class = "subtitulo">Menu!</h3>
+        <p>
+            Esse é o Menu interativo onde pode ser escolhido qual simulação você deseja realizar, seja ela Via única ou com cruzamentos!
+            <img src="~/img/Simulação/menu.gif">
+        </p>
+    </div>
+    <div class = "viaUnica">
+        <h3 class = "subtitulo">Simulação da via única!</h3>
+        <p>
+            Apresentamos dois botões logo abaixo, o 'botão' para pedestres que não possuem deficiência, e temos o 'cartão',
+            que simula como que o pedestre com alguma deficiência aproximasse o cartão. Com o botão o semáforo é fechado após 10 segundos,
+            e só pode ser acionada após 25 segundos, já o cartão o semáforo é fechado após 8 segundos.
+        </p>
+        <img src="~/img/Simulação/viaunica.gif">
+    </div>
+    <div class = "cruzamento">
+        <h3 class = "subtitulo">Simulação com o Cruzamento</h3>
+        <p>
+            Vias com cruzamento funcionam da seguinte maneira, quando o cartão é acionado todas as vias são fechadas.
+        </p>
+        <img src="~/img/Simulação/cruzamento.gif">
+    </div>
+    <div class = "botao">
+        <p>Disponibilizamos a simulação para download, caso queira testar a simulação, só clicar logo abaixo!</p>
+        <a class = "download" href="~/Download/Simulacao.exe" download="Simulação.exe"> 
+            <img src="~/img/Simulação/botão.png">
+        </a>
+
+    </div>
+</body>
 </html>
